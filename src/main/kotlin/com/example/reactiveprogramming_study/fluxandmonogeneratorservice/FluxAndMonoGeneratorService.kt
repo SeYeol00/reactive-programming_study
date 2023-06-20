@@ -1,0 +1,4 @@
+package com.example.reactiveprogramming_study.fluxandmonogeneratorservice
+
+class FluxAndMonoGeneratorService {
+}
